@@ -17,6 +17,7 @@
 2. Admin di ./PARTI2015/axmin (tanpa login)
 3. Best view on Google Chrome (Not Supported on Microsoft Edge)
 4. Default MySQL Connection (phpmanage/db.php) : localhost, root(username), root(password) Find the connection file and edit it.
+5. This web require *bs3_dist* folder download from [here](https://github.com/axquired24/bs3_dist/) !IMPORTANT
 
 ##### Credits : Albert Septiawan
 ---------
